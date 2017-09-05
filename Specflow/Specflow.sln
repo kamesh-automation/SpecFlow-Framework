@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium.Core", "Selenium.Core\Selenium.Core.csproj", "{314BDF90-2018-4E17-9599-10BEE35C7327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Automation.PageObjects", "Automation.PageObjects\Automation.PageObjects.csproj", "{5568FA82-ADE1-4B91-AF53-84B9FF4F81C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Specflow", "Specflow\Specflow.csproj", "{C486259E-5D8F-46B7-8134-9B719E19EB02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{314BDF90-2018-4E17-9599-10BEE35C7327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{314BDF90-2018-4E17-9599-10BEE35C7327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{314BDF90-2018-4E17-9599-10BEE35C7327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{314BDF90-2018-4E17-9599-10BEE35C7327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5568FA82-ADE1-4B91-AF53-84B9FF4F81C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5568FA82-ADE1-4B91-AF53-84B9FF4F81C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5568FA82-ADE1-4B91-AF53-84B9FF4F81C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5568FA82-ADE1-4B91-AF53-84B9FF4F81C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C486259E-5D8F-46B7-8134-9B719E19EB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C486259E-5D8F-46B7-8134-9B719E19EB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C486259E-5D8F-46B7-8134-9B719E19EB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C486259E-5D8F-46B7-8134-9B719E19EB02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

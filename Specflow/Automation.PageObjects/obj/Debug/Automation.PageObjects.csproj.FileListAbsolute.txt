@@ -1,0 +1,6 @@
+C:\Users\Vijet\Documents\GitHub\Specflow\Specflow\Automation.PageObjects\bin\Debug\Automation.PageObjects.dll.config
+C:\Users\Vijet\Documents\GitHub\Specflow\Specflow\Automation.PageObjects\bin\Debug\Automation.PageObjects.dll
+C:\Users\Vijet\Documents\GitHub\Specflow\Specflow\Automation.PageObjects\bin\Debug\Automation.PageObjects.pdb
+C:\Users\Vijet\Documents\GitHub\Specflow\Specflow\Automation.PageObjects\obj\Debug\Automation.PageObjects.dll
+C:\Users\Vijet\Documents\GitHub\Specflow\Specflow\Automation.PageObjects\obj\Debug\Automation.PageObjects.pdb
+C:\Users\Vijet\Documents\GitHub\Specflow\Specflow\Automation.PageObjects\obj\Debug\Automation.PageObjects.csprojResolveAssemblyReference.cache

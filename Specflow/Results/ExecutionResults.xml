@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assemblies timestamp="06/26/2017 07:35:53">
+  <assembly name="C:\Users\Vijet\Documents\GitHub\Specflow\Specflow\Specflow\bin\Debug\Specflow.DLL" environment="64-bit .NET 4.0.30319.42000 [collection-per-class, parallel (4 threads)]" test-framework="xUnit.net 2.2.0.3545" run-date="2017-06-26" run-time="07:34:13" config-file="C:\Users\Vijet\Documents\GitHub\Specflow\Specflow\Specflow\bin\Debug\Specflow.dll.config" total="4" passed="4" failed="0" skipped="0" time="98.880" errors="0">
+    <errors />
+    <collection total="4" passed="4" failed="0" skipped="0" name="Test collection for Specflow.Scenarios.MercuryToursFeature" time="91.376">
+      <test name="Specflow.Scenarios.MercuryToursFeature.BookAFlight(flight_Type: \&quot;one_way\&quot;, exampleTags: [])" type="Specflow.Scenarios.MercuryToursFeature" method="BookAFlight" time="12.2558534" result="Pass">
+        <traits>
+          <trait name="FeatureTitle" value="MercuryTours" />
+          <trait name="Description" value="Book a Flight" />
+          <trait name="Category" value="BookFlight" />
+        </traits>
+      </test>
+      <test name="Specflow.Scenarios.MercuryToursFeature.BookAFlight(flight_Type: \&quot;two_way\&quot;, exampleTags: [])" type="Specflow.Scenarios.MercuryToursFeature" method="BookAFlight" time="35.3788562" result="Pass">
+        <traits>
+          <trait name="FeatureTitle" value="MercuryTours" />
+          <trait name="Description" value="Book a Flight" />
+          <trait name="Category" value="BookFlight" />
+        </traits>
+      </test>
+      <test name="Invalid Login" type="Specflow.Scenarios.MercuryToursFeature" method="InvalidLogin" time="2.9316531" result="Pass">
+        <traits>
+          <trait name="FeatureTitle" value="MercuryTours" />
+          <trait name="Description" value="Invalid Login" />
+          <trait name="Category" value="Login" />
+        </traits>
+      </test>
+      <test name="Valid Login Functionality" type="Specflow.Scenarios.MercuryToursFeature" method="ValidLoginFunctionality" time="40.8092173" result="Pass">
+        <traits>
+          <trait name="FeatureTitle" value="MercuryTours" />
+          <trait name="Description" value="Valid Login Functionality" />
+          <trait name="Category" value="Login" />
+        </traits>
+      </test>
+    </collection>
+  </assembly>
+</assemblies>
